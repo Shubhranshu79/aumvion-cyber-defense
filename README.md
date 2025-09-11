@@ -8,7 +8,7 @@ It simulates **real-time cyber attacks** and demonstrates how AI-driven defense 
 - Heal the system ✅  
 - Log every action for audit 📑  
 
-This project was built for the **OpenAI x NxtWave Buildathon 2025**.  
+  
 
 ---
 
