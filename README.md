@@ -1,13 +1,13 @@
-# 🛡️ AUMVION: Autonomous Self-Healing Cyber-Defense Engine
+<h1 align="center"><b>AUMVION — Autonomous Self-Healing Cyber-Defense Engine</b></h1>
 
 AUMVION is an autonomous cyber-defense framework designed to detect, isolate, and regenerate compromised system components with minimal human intervention.
-It combines classical computing, AI-driven decision loops, and lightweight quantum-inspired verification techniques (QRNG entropy, quantum-safe validation, hybrid crypto checks) to strengthen system integrity beyond classical limits.
+It combines classical computing, AI-driven logic, and lightweight quantum-inspired verification (QRNG entropy, quantum-safe signatures, hybrid crypto checks) to strengthen system integrity beyond classical limits.
 
-Where traditional security tools only block or alert, AUMVION actively restores damaged modules, rebuilds configurations, validates decisions through quantum-assisted logic, and synchronizes the recovered secure state across distributed environments.
+Where traditional tools only block or alert, AUMVION restores components, rebuilds configurations, validates decisions, and synchronizes secure states across distributed environments.
 
 1. System Overview
 
-AUMVION integrates six major subsystems into a unified, self-healing security pipeline:
+AUMVION integrates six core layers into a unified, self-healing security pipeline:
 
 Classical Compute Layer
 
@@ -21,68 +21,60 @@ Blockchain Integrity Layer
 
 Cloud Orchestration Layer
 
-These layers operate in a continuous feedback cycle that detects threats, isolates failures, rebuilds corrupted components, validates recovery, and distributes the restored secure state across all nodes.
+These layers continuously detect threats, isolate failures, rebuild corrupted modules, verify integrity, and distribute a restored secure state across all nodes.
 
-2. Architecture Breakdown
-Layer 1 — Classical Compute Layer
+2. Layer-by-Layer Architecture
+2.1 Classical Compute Layer (Layer 1)
 
-Handles deterministic processing and baseline telemetry.
+Handles deterministic processing and telemetry.
 
-Responsibilities
+Log & telemetry collection
 
-Collect and normalize logs
+Pre-processing and normalization
 
-Pre-process telemetry
+Classical anomaly checks
 
-Perform classical anomaly checks
+Resource management
 
-Manage resource allocation
+Module rebuild triggers
 
-Trigger module rebuilds
+Regeneration using secure templates
 
-Regenerate configurations from secure templates
+2.2 AI/ML Decision Layer (Layer 2)
 
-Layer 2 — AI/ML Decision Layer
-
-Provides adaptive intelligence that drives the self-healing pipeline.
-
-Responsibilities
+Provides adaptive intelligence that drives healing.
 
 Behavioral anomaly detection
 
 Intrusion classification
 
-Predictive threat scoring
+Threat prediction
 
-Automatic policy generation
+Automated policy generation
 
-Selection of recovery and containment strategies
+Selecting containment & recovery strategy
 
-Optimization of classical + quantum validation parameters
+Tuning classical + quantum verification parameters
 
-Layer 3 — Quantum Verification Layer
+2.3 Quantum Verification Layer (Layer 3)
 
-A focused quantum-assisted verification subsystem.
+A focused quantum-assisted security validation subsystem.
 
-Responsibilities
+High-integrity verification of AI decisions
 
-High-integrity validation of AI-generated actions
+QRNG-based entropy generation
 
-QRNG-based entropy for cryptographic operations
+Quantum-safe signature validation
 
-Quantum-safe signature validation (lattice-based primitives)
+Consistency checks for regenerated modules
 
-Consistency checks for regenerated components
+Hybrid classical–quantum decision verification
 
-Hybrid validation pipeline for critical decisions
+2.4 Cybersecurity Enforcement Layer (Layer 4)
 
-Layer 4 — Cybersecurity Enforcement Layer
+Executes strong containment actions.
 
-Executes hard defensive actions.
-
-Responsibilities
-
-Privilege and access enforcement
+Access control enforcement
 
 Network isolation
 
@@ -90,64 +82,51 @@ Malware/process neutralization
 
 Runtime sandboxing
 
-Enforcement of AI-generated security policies
+Enforcement of AI-generated policies
 
-Layer 5 — Blockchain Integrity Layer
+2.5 Blockchain Integrity Layer (Layer 5)
 
-Provides tamper-proof auditability and verifiable regeneration history.
+Adds tamper-proof auditability.
 
-Responsibilities
+Immutable logging
 
-Immutable event logging
+Hash-based state validation
 
-Hash-based integrity verification
+Consensus-backed integrity proofs
 
-Distributed consensus for log validation
+Secure storage of regeneration events
 
-Secure storage of regeneration steps
+Prevention of log manipulation
 
-Protection against log manipulation or rollback
+2.6 Cloud Orchestration Layer (Layer 6)
 
-Layer 6 — Cloud Orchestration Layer
+Manages multi-node healing across distributed environments.
 
-Coordinates multi-node recovery across distributed environments.
+Multi-region deployment
 
-Responsibilities
+Rolling updates & safe rollbacks
 
-Orchestrated multi-region deployment
+Secure propagation of regenerated state
 
-Rolling updates and safe rollback
-
-Secure distribution of regenerated states
-
-Workload orchestration
+Distributed workload orchestration
 
 Remote regeneration triggers
 
-3. Self-Healing Workflow
+3. Self-Healing Cycle (Sequential Flow)
 
-AUMVION’s regeneration cycle follows a structured sequence:
+Data Intake — Telemetry collected & normalized
 
-Data Intake
-Classical layer collects and standardizes telemetry.
+AI Analysis — Threat classification & healing strategy
 
-AI Analysis
-ML models detect anomalies, classify threats, and generate recovery policies.
+Quantum Verification — Critical decision validation
 
-Quantum-Assisted Verification
-Critical decisions undergo quantum-enhanced integrity checks.
+Enforcement — Isolation + containment actions
 
-Enforcement
-Threats are isolated and neutralized.
+Regeneration — Rebuild corrupted modules
 
-Regeneration
-Corrupted modules are restored using secure templates or container snapshots.
+Blockchain Proof — Immutable logging
 
-Blockchain Proof
-All steps are immutably logged for verification.
-
-Cloud Distribution
-The healed state is propagated to all nodes.
+Cloud Distribution — Sync healed state across nodes
 
 4. Logical Architecture Diagram
 ┌───────────────────────────────────────┐
@@ -174,55 +153,30 @@ The healed state is propagated to all nodes.
 │         Classical Compute Layer        │
 └───────────────────────────────────────┘
 
-5. Summary
+5. Future Direction: Quantum Hardware Integration
 
-AUMVION provides:
+AUMVION’s long-term roadmap includes direct integration with real quantum processors for national-scale, mission-critical security environments.
 
-Deterministic compute for baseline operations
+This feature is intended only for:
 
-AI/ML for adaptive defense and predictive actions
+Government cyber-defense agencies
 
-Quantum-assisted verification for high-integrity decisions
+Critical infrastructure protection
 
-Hardened cybersecurity enforcement
+Real-time intelligence networks
 
-Immutable blockchain-backed audit trails
+High-assurance research environments
 
-Distributed cloud orchestration for synchronized self-healing
+For example, deployment in Government of Bharat (India) facilities where real-time quantum-secure validation is necessary.
 
-This enables AUMVION to detect, isolate, heal, validate, and evolve after every attack.
+Planned Quantum Hardware Usage
 
-6. Future Direction: Quantum Hardware Integration
+Quantum-secure key generation
 
-AUMVION currently uses quantum-inspired validation (QRNG entropy, quantum-safe signatures, hybrid cryptographic checks).
-The long-term roadmap includes direct integration with real quantum processors for high-assurance environments.
+Real-time quantum signature verification
 
-This capability is intended for large-scale, mission-critical institutions, not general deployments.
+Telemetry validation via quantum co-processors
 
-Targeted High-Security Use Cases
+Hybrid classical–quantum decision validation
 
-Future quantum hardware support is planned specifically for:
-
-National cyber defense agencies
-
-Government infrastructure protection
-
-Real-time monitoring systems for critical assets
-
-Sensitive research or intelligence environments
-
-For example, deployment in environments such as those operated by the Government of Bharat (India) or similar national bodies where real-time quantum-secure verification is essential.
-
-Planned Quantum Hardware Utilization
-
-AUMVION aims to support:
-
-Quantum-secure key generation on physical quantum chips
-
-Real-time verification of signatures and policies
-
-High-volume telemetry validation using quantum co-processors
-
-Hybrid classical–quantum integrity checks for decision pipelines
-
-Quantum modules would function as optional high-security accelerators, activated only in trusted facilities that host dedicated quantum computing hardware
+Quantum hardware will operate as optional high-security accelerators in dedicated facilities.
